@@ -8,3 +8,4 @@ scatter(controlPoints(:, 1), controlPoints(:, 2));
 hold off;
 end
 
+
