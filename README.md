@@ -1,4 +1,3 @@
 # sample_work
 
-This is a compilation of some work I've completed over the course of the past 4 years.
-Making some obvious adjustments
+Compilation of several projects I've worked on, including  MATLAB, Python and Julia code. 
