@@ -80,3 +80,4 @@ for i in range(len(dataset)):
 nf = pd.DataFrame({"Product Name":names,"Price":pricess,"Votes":votess,"Stars":starr})
 nf.to_csv('information.csv',index=False,encoding ='utf-8')
 datafile = pd.read_csv('information.csv',engine = 'python')
+
