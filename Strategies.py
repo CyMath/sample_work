@@ -2,7 +2,6 @@
 import backtrader as bt
 
 
-
 # Important note here, bt.Strategy calls the class Strategy so MACrossover inherits
 # the methods and properties from Strategy, which includes a lot 
 class MACrossover(bt.Strategy):
